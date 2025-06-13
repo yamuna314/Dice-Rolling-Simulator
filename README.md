@@ -4,9 +4,13 @@ It is a simple program and you will gain knowledge about unicode strings. Apart 
 We also use tkinter to create a graphical user interface, user just need to click on roll button which will generate a random number between 1 and 6.
 
 Project Prerequisites:
+
    Dice rolling simulator project requires basic knowledge of python and tkinter.
+   
 To install tkinter, please run below command:
+
            pip install tkinter
+           
  Download Dice Rolling Simulator Python Program:
            Please download the source code of python dice rolling simulator: Dice Rolling Simulator Python Code
 
