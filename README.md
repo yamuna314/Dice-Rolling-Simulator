@@ -29,4 +29,8 @@ Project File Structure:
                
 Summary:
 
-      We have successfully created python dice rolling simulator. We have learned the use of the classes: random – to generate random numbers when we roll dice and Tkinter: to create a simple user interface. We also learned the basics of classes. Now you can get back to board games using this dice rolling simulator.
+      We have successfully created python dice rolling simulator.
+      
+      We have learned the use of the classes: random – to generate random numbers when we roll dice and Tkinter: to create a simple user interface.
+      
+      We also learned the basics of classes. Now you can get back to board games using this dice rolling simulator.
